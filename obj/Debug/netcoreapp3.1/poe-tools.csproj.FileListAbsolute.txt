@@ -1,0 +1,13 @@
+C:\Users\thoma\Code\GitHub\poe-tools\obj\Debug\netcoreapp3.1\poe-tools.csprojAssemblyReference.cache
+C:\Users\thoma\Code\GitHub\poe-tools\obj\Debug\netcoreapp3.1\poe-tools.AssemblyInfoInputs.cache
+C:\Users\thoma\Code\GitHub\poe-tools\obj\Debug\netcoreapp3.1\poe-tools.AssemblyInfo.cs
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\poe-tools.exe
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\poe-tools.deps.json
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\poe-tools.runtimeconfig.json
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\poe-tools.runtimeconfig.dev.json
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\poe-tools.dll
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\poe-tools.pdb
+C:\Users\thoma\Code\GitHub\poe-tools\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thoma\Code\GitHub\poe-tools\obj\Debug\netcoreapp3.1\poe-tools.csproj.CopyComplete
+C:\Users\thoma\Code\GitHub\poe-tools\obj\Debug\netcoreapp3.1\poe-tools.dll
+C:\Users\thoma\Code\GitHub\poe-tools\obj\Debug\netcoreapp3.1\poe-tools.pdb
